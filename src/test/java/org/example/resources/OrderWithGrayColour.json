@@ -1,0 +1,13 @@
+{
+  "firstName": "Andrey",
+  "lastName": "Ivanov",
+  "address": "Konoha, 144 apt.",
+  "metroStation": 6,
+  "phone": "+79999999",
+  "rentTime": 7,
+  "deliveryDate": "2025-07-06",
+  "comment": "Saske, come back to Konoha",
+  "color": [
+    "GRAY"
+  ]
+}
